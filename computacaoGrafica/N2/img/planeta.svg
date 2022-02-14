@@ -1,0 +1,2840 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg3794"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="planeta.svg">
+  <defs
+     id="defs3788">
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4173">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4169" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4171" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4181">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-6">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-1" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-0" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-7">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-7" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-7" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-1">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-8" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-4" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-63">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-4" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-07" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-19">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-2" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-3" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-8">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-82" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-6" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-82">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-45" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-09" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-0">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-85" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-67" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-15">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-0" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-2" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-4">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-5" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-29" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-73">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-3" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-20" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-06">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-59" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-8" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-5">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-49" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-86" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-68">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-9" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-1" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-77">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-57" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-60" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-3">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-6" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-43" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-635">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-35" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-03" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-12">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-355" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-02" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-45">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-21" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-207" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-31">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-40" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-24" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-38">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-74" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-74" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-80">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-33" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-866" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-2">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-86" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-64" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-57">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-354" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-5" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-9">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-63" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-644" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-25">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-44" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-81" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-86">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-11" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-35" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-33">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-02" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-49" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-70">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-12" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-030" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-639">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-860" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-89" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-41">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-73" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-72" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-385">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-60" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-63" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-75">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-71" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-38" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-50">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-219" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-240" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-20">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-98" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-22" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-05">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-823" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-27" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-050">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-10" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-53" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-89">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-95" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-9" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-54">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-89" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-31" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-28">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-865" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-298" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-58">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-88" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-099" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-78">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-66" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-78" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-052">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-607" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-73" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-74">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-50" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-58" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-34">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-67" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-47" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-71">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-19" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-80" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-35">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-43" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-57" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-284">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-15" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-538" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-680">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-61" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-21" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-36">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-52" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-59" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-453">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-30" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-97" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-780">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-28" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-210" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-362">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-09" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-15" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-90">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-732" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-30" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-24">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-94" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-033" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-348">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-632" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-00" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-289">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-46" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-805" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-121">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-983" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-91" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-49">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-00" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-595" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-060">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-678" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-899" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-0605">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-23" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-352" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-701">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-54" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-84" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-85">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-29" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-10" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-67">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-42" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-12" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-04">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-80" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-16" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-84">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-65" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-972" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-39">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-095" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-678" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-577">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-13" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-68" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-02">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-404" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-673" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-0509">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-001" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-819" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-705">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-97" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-275" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-589">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-31" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-93" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-23">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-04" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-75" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-32">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-336" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-682" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-83">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-69" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-36" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-025">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-191" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-28" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-48">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-497" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-54" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-22">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-55" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-39" />
+    </filter>
+    <filter
+       inkscape:label="Chalk and Sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.30000001"
+       style="color-interpolation-filters:sRGB"
+       id="filter4181-30">
+      <feTurbulence
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence4177-77" />
+      <feDisplacementMap
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic"
+         in2="result1"
+         id="feDisplacementMap4179-25" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-5.7781825"
+     inkscape:cy="68.205036"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:measure-start="52.2768,29.1071"
+     inkscape:measure-end="70.4911,25.7366"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3791">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-283.77082)">
+    <g
+       id="g5322"
+       transform="translate(-9.7895833,-2.9104167)">
+      <g
+         id="g5315">
+        <ellipse
+           style="fill:#ff7f2a;stroke-width:0.18549618"
+           id="path3796"
+           cx="6.5142174"
+           cy="289.15753"
+           rx="3.2012117"
+           ry="2.9558902" />
+        <ellipse
+           style="fill:#ffd42a;stroke-width:0.24972223"
+           id="path3802"
+           cx="93.489815"
+           cy="272.91214"
+           rx="6.9191041"
+           ry="0.99810833"
+           transform="matrix(0.9513395,0.30814469,-0.30153537,0.95345499,0,0)" />
+        <ellipse
+           style="fill:#000000;stroke-width:0.24941936"
+           id="path3804"
+           cx="176.96672"
+           cy="284.46854"
+           rx="5.319983"
+           ry="0.48633423"
+           transform="matrix(0.95076821,0.30990292,-0.56793181,0.82307561,0,0)" />
+        <path
+           id="path3806"
+           style="fill:#ff7f2a;stroke-width:0.33684805"
+           d="m 6.4178827,286.13448 c -1.2531624,-0.009 -2.4001383,0.65565 -2.8455888,1.77176 -0.00707,0.0195 -0.1438914,0.40574 -0.1504612,0.42536 l 0.1840386,0.077 c 0.2047108,-0.0404 -0.021222,-0.0346 -0.016151,-0.0314 -3.917e-4,-8e-4 -0.032508,-0.0262 -0.023801,-0.0261 0.025182,8e-4 -0.070211,-0.002 -0.045478,0.006 0.018343,0.0117 0.048874,0.014 0.069279,0.0203 0.021065,0.006 -0.00477,0.0233 0.016151,0.0314 0.02043,0.006 0.1033016,0.0436 0.1236844,0.0517 l 0.041653,0.0161 0.046753,0.019 0.058654,0.0236 0.059505,0.0236 0.051429,0.0207 0.026352,0.01 c -0.077781,-0.0306 0.045337,0.0215 0.147486,0.0575 l 0.042503,0.0153 0.090107,0.0352 0.093507,0.0368 0.085007,0.0319 0.079056,0.0286 0.089257,0.0343 0.080756,0.0294 0.085857,0.031 0.07353,0.0281 c 0.030596,0.006 0.048016,0.0194 0.075656,0.0265 0.024231,0.005 0.041335,0.0174 0.06588,0.0211 0.03308,0.0132 0.068594,0.0256 0.1020076,0.0381 0.031413,0.0123 0.047486,0.0169 0.079056,0.0285 0.028663,0.0112 0.07798,0.0255 0.1066832,0.0364 l 0.077356,0.029 0.1249597,0.043 0.1003072,0.0348 0.1020079,0.0348 0.1228342,0.0405 0.051004,0.0178 0.048029,0.0161 0.080331,0.0261 0.07183,0.0244 0.094782,0.0306 0.072256,0.0265 0.075656,0.024 0.1054077,0.0327 0.081606,0.0265 0.1266592,0.0418 0.076931,0.0244 0.075231,0.0228 0.096482,0.0306 0.144936,0.0472 0.1024324,0.0294 0.1156087,0.036 0.1015827,0.0302 0.1020076,0.0323 0.1304847,0.0397 0.094782,0.0265 0.087981,0.0273 0.1139087,0.0339 0.1126336,0.0302 0.1423855,0.041 0.1279347,0.036 0.1309098,0.0368 0.1092331,0.0306 c 0.057379,0.012 0.067325,0.0197 0.1160337,0.0327 l 0.096057,0.0269 0.1028577,0.0261 0.089257,0.0228 0.1479113,0.0376 0.1185839,0.0298 0.1185837,0.0306 0.093507,0.0224 0.085856,0.0182 0.019977,0.007 c 0.00126,-3.4e-4 0.023798,-0.0651 0.025077,-0.0654 8.487e-4,-4.2e-4 0.00163,-10e-4 0.00255,-10e-4 0.5641408,-1.5032 -0.1645358,-3.2306 -1.8399632,-3.87288 l -8.487e-4,10e-4 -0.00213,0.005 c -0.4192786,-0.16075 -0.84845,-0.23869 -1.2661707,-0.24164 z m 3.0942325,4.15839 4.352e-4,4.2e-4 c 5.223e-4,10e-5 0.00113,-7e-5 0.00213,0 9.139e-4,1.3e-4 -0.00185,-2.9e-4 -0.00255,-4.2e-4 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+    <g
+       id="g4133"
+       transform="translate(-71.467871,-9.7286108)">
+      <ellipse
+         ry="2.9558902"
+         rx="3.2012117"
+         cy="278.54587"
+         cx="21.628304"
+         id="path3796-4"
+         style="fill:#88aa00;stroke-width:0.18549618" />
+      <ellipse
+         transform="matrix(0.9513395,0.3081447,-0.30153536,0.95345499,0,0)"
+         ry="0.99810833"
+         rx="6.9191046"
+         cy="258.15915"
+         cx="104.70088"
+         id="path3802-6"
+         style="fill:#ff6600;stroke-width:0.24972223" />
+      <ellipse
+         transform="matrix(0.95076821,0.30990291,-0.5679318,0.82307562,0,0)"
+         ry="0.48633423"
+         rx="5.319983"
+         cy="269.0567"
+         cx="183.65732"
+         id="path3804-0"
+         style="fill:#000000;stroke-width:0.24941936" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 21.531968,275.52279 c -1.253163,-0.009 -2.400138,0.65565 -2.845589,1.77176 -0.0071,0.0195 -0.143891,0.40574 -0.150461,0.42536 l 0.184039,0.077 c 0.20471,-0.0404 -0.02122,-0.0346 -0.01615,-0.0314 -3.97e-4,-8e-4 -0.03251,-0.0262 -0.0238,-0.0261 0.02518,8e-4 -0.07021,-0.002 -0.04548,0.006 0.01834,0.0117 0.04887,0.014 0.06928,0.0203 0.02107,0.006 -0.0048,0.0233 0.01615,0.0314 0.02043,0.006 0.103301,0.0436 0.123684,0.0517 l 0.04165,0.0161 0.04675,0.019 0.05865,0.0236 0.0595,0.0236 0.05143,0.0207 0.02635,0.01 c -0.07778,-0.0306 0.04534,0.0215 0.147486,0.0575 l 0.0425,0.0153 0.09011,0.0352 0.09351,0.0368 0.08501,0.0319 0.07906,0.0286 0.08926,0.0343 0.08076,0.0294 0.08586,0.031 0.07353,0.0281 c 0.0306,0.006 0.04802,0.0194 0.07566,0.0265 0.02423,0.005 0.04134,0.0174 0.06588,0.0211 0.03308,0.0132 0.06859,0.0256 0.102007,0.0381 0.03141,0.0123 0.04749,0.0169 0.07906,0.0285 0.02866,0.0112 0.07798,0.0255 0.106683,0.0364 l 0.07736,0.029 0.12496,0.043 0.100307,0.0348 0.102008,0.0348 0.122834,0.0405 0.051,0.0178 0.04803,0.0161 0.08033,0.0261 0.07183,0.0244 0.09478,0.0306 0.07226,0.0265 0.07566,0.024 0.105408,0.0327 0.08161,0.0265 0.126659,0.0418 0.07693,0.0244 0.07523,0.0228 0.09648,0.0306 0.144936,0.0472 0.102433,0.0294 0.115608,0.036 0.101583,0.0302 0.102008,0.0323 0.130484,0.0397 0.09478,0.0265 0.08798,0.0273 0.113909,0.0339 0.112634,0.0302 0.142385,0.041 0.127935,0.036 0.13091,0.0368 0.109233,0.0306 c 0.05738,0.012 0.06733,0.0197 0.116033,0.0327 l 0.09606,0.0269 0.102858,0.0261 0.08926,0.0228 0.147912,0.0376 0.118583,0.0298 0.118584,0.0306 0.09351,0.0224 0.08586,0.0182 0.01998,0.007 c 0.0013,-3.4e-4 0.0238,-0.0651 0.02508,-0.0654 8.47e-4,-4.2e-4 0.0016,-10e-4 0.0025,-10e-4 0.564152,-1.5032 -0.164524,-3.2306 -1.839952,-3.87288 l -8.47e-4,0.001 -0.0021,0.005 c -0.41927,-0.16075 -0.848441,-0.23869 -1.266162,-0.24164 z m 3.094232,4.15839 4.24e-4,4.2e-4 c 5.29e-4,10e-5 0.0011,-7e-5 0.0021,0 9.26e-4,1.3e-4 -0.0019,-2.9e-4 -0.0025,-4.2e-4 z"
+         style="fill:#88aa00;stroke-width:0.33684805"
+         id="path3806-0" />
+    </g>
+    <g
+       id="g4139"
+       transform="translate(-23.0284,-34.717939)">
+      <ellipse
+         transform="matrix(0.9999033,0.01390623,-0.01227072,0.99992471,0,0)"
+         ry="3.8975661"
+         rx="4.3707228"
+         cy="291.01581"
+         cx="31.491863"
+         id="path3796-2"
+         style="fill:#2aff80;stroke-width:0.24888977" />
+      <ellipse
+         transform="matrix(0.9513395,0.3081447,-0.30153536,0.95345499,0,0)"
+         ry="0.99810833"
+         rx="6.9191046"
+         cy="268.6188"
+         cx="114.51714"
+         id="path3802-5"
+         style="fill:#00aa88;stroke-width:0.24972223" />
+      <ellipse
+         transform="matrix(0.95076821,0.30990291,-0.5679318,0.82307562,0,0)"
+         ry="0.48633423"
+         rx="5.319983"
+         cy="279.94922"
+         cx="196.66875"
+         id="path3804-6"
+         style="fill:#000000;stroke-width:0.24941936" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 27.835241,287.44412 c -1.71067,-0.0354 -3.287283,0.8189 -3.913467,2.28202 -0.01018,0.0257 -0.203011,0.53223 -0.212297,0.55797 l 0.250005,0.1049 c 0.280127,-0.0494 -0.02843,-0.0459 -0.02155,-0.0417 -5.27e-4,-9.9e-4 -0.04395,-0.0352 -0.03207,-0.0348 0.03434,0.001 -0.09579,-0.003 -0.0622,0.006 0.02485,0.0158 0.06648,0.0194 0.09425,0.0281 0.02864,0.007 -0.0069,0.0306 0.02155,0.0417 0.02777,0.007 0.140324,0.0594 0.168017,0.0705 l 0.05662,0.022 0.06352,0.026 0.07969,0.0324 0.08083,0.0324 0.06989,0.0283 0.03582,0.0137 c -0.105693,-0.0418 0.06155,0.0293 0.200414,0.0784 l 0.05778,0.0209 0.122449,0.048 0.12706,0.0502 0.115541,0.0437 0.107467,0.0392 0.121305,0.0469 0.109769,0.0403 0.116716,0.0425 0.09993,0.0384 c 0.04164,0.007 0.06524,0.0264 0.102851,0.0365 0.03296,0.006 0.05616,0.0238 0.08958,0.0292 0.04494,0.0181 0.09322,0.035 0.138645,0.0522 0.0427,0.0169 0.06455,0.0231 0.107469,0.0389 0.03892,0.0152 0.10604,0.0351 0.145054,0.0499 l 0.105154,0.0397 0.169899,0.0591 0.136376,0.0476 0.138698,0.0477 0.167038,0.0557 0.06934,0.0244 0.06531,0.022 0.109257,0.036 0.09768,0.0335 0.128899,0.0421 0.09822,0.0365 0.102906,0.033 0.14337,0.045 0.110979,0.0365 0.172238,0.0574 0.104627,0.0336 0.102334,0.0317 0.13122,0.0422 0.197106,0.065 0.139366,0.0407 0.157249,0.0498 0.138191,0.0417 0.138738,0.0445 0.177494,0.0549 0.128966,0.0368 0.119669,0.0378 0.154958,0.0469 0.153279,0.0419 0.193725,0.0567 0.17407,0.0498 0.178124,0.051 0.148632,0.0426 c 0.07814,0.0171 0.09157,0.027 0.157884,0.0453 l 0.130706,0.0374 0.14,0.0365 0.121489,0.0319 0.201323,0.0526 0.161412,0.0417 0.161397,0.0427 0.127296,0.0314 0.116925,0.0256 0.02714,0.008 c 0.0018,-4.4e-4 0.03354,-0.0855 0.03531,-0.0858 9.88e-4,-5.4e-4 0.0021,-0.001 0.0035,-0.001 0.794504,-1.97123 -0.172341,-4.2626 -2.449241,-5.14124 l -9.76e-4,10e-4 -0.0029,0.006 c -0.56979,-0.21991 -1.154432,-0.33082 -1.724659,-0.34265 z m 4.156971,5.54152 5.71e-4,5.3e-4 c 7.2e-4,1.6e-4 0.0016,-5e-5 0.0028,7e-5 0.0014,1.8e-4 -0.0025,-4.2e-4 -0.0035,-6e-4 z"
+         style="fill:#2aff80;stroke-width:0.45196605"
+         id="path3806-5" />
+    </g>
+    <g
+       id="g4127"
+       transform="translate(-64.264958,-25.25697)">
+      <ellipse
+         ry="2.9558902"
+         rx="3.2012117"
+         cy="280.53024"
+         cx="38.760071"
+         id="path3796-9"
+         style="fill:#00aa00;stroke-width:0.18549618" />
+      <ellipse
+         ry="0.29352212"
+         rx="0.31832683"
+         cy="281.18698"
+         cx="37.591499"
+         id="path4111"
+         style="fill:#55d400;stroke-width:0.26458332" />
+      <ellipse
+         transform="rotate(24.186631)"
+         ry="0.3472656"
+         rx="0.19430338"
+         cy="240.11732"
+         cx="147.541"
+         id="path4113"
+         style="fill:#55d400;stroke-width:0.21921958" />
+      <ellipse
+         transform="scale(-1,1)"
+         ry="0.26458335"
+         rx="0.31832683"
+         cy="282.944"
+         cx="-39.542812"
+         id="path4115"
+         style="fill:#55d400;stroke-width:0.21990305" />
+      <ellipse
+         ry="0.25631511"
+         rx="0.28111979"
+         cy="281.11673"
+         cx="33.039845"
+         id="path4117"
+         style="fill:#44aa00;stroke-width:0.26458332" />
+      <ellipse
+         ry="0.33899739"
+         rx="0.34726563"
+         cy="280.53793"
+         cx="43.209763"
+         id="path4119"
+         style="fill:#44aa00;stroke-width:0.26458332" />
+    </g>
+    <ellipse
+       style="fill:#aa4400;stroke-width:0.26458332"
+       id="path4141"
+       cx="-36.480316"
+       cy="293.03238"
+       rx="2.9434896"
+       ry="2.5631511" />
+    <ellipse
+       style="fill:#aa8800;stroke-width:0.26458332"
+       id="path4143"
+       cx="-19.487734"
+       cy="293.19418"
+       rx="2.9269531"
+       ry="2.4308593" />
+    <ellipse
+       style="fill:#0000ff;stroke-width:0.26458332"
+       id="path4145"
+       cx="-73.504555"
+       cy="291.84061"
+       rx="5.5066404"
+       ry="4.6963539" />
+    <g
+       id="g5309"
+       transform="matrix(0.47621449,0,0,0.48149821,-21.242087,144.9898)">
+      <ellipse
+         transform="matrix(0.82819829,0,0,0.68644612,-5.1751296,89.191354)"
+         ry="14.101808"
+         rx="15.832378"
+         cy="285.04971"
+         cx="-21.819216"
+         id="path4167"
+         style="fill:#ff9955;stroke-width:0.26458332;filter:url(#filter4173)" />
+      <g
+         id="g5224">
+        <ellipse
+           style="fill:#ffff00;stroke-width:0.26458332"
+           id="path4147"
+           cx="-21.927349"
+           cy="284.82913"
+           rx="13.791406"
+           ry="12.303124" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181)"
+           id="path4175"
+           cx="-21.8426"
+           cy="273.75424"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-6)"
+           id="path4175-3"
+           cx="-26.379501"
+           cy="276.09283"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-7)"
+           id="path4175-0"
+           cx="-30.495453"
+           cy="279.60074"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-1)"
+           id="path4175-5"
+           cx="-21.187792"
+           cy="278.05725"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-63)"
+           id="path4175-6"
+           cx="-14.68646"
+           cy="280.44263"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-19)"
+           id="path4175-8"
+           cx="-15.247726"
+           cy="283.66992"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-8)"
+           id="path4175-32"
+           cx="-19.737854"
+           cy="285.07309"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-82)"
+           id="path4175-9"
+           cx="-28.858427"
+           cy="284.79245"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-0)"
+           id="path4175-7"
+           cx="-30.916403"
+           cy="282.40707"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-15)"
+           id="path4175-99"
+           cx="-26.473047"
+           cy="282.26675"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-4)"
+           id="path4175-05"
+           cx="-22.778046"
+           cy="283.99731"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-73)"
+           id="path4175-68"
+           cx="-19.784626"
+           cy="281.70547"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-06)"
+           id="path4175-4"
+           cx="-17.352474"
+           cy="278.0105"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-5)"
+           id="path4175-2"
+           cx="-15.949309"
+           cy="275.4848"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-68)"
+           id="path4175-43"
+           cx="-16.229942"
+           cy="274.59613"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-77)"
+           id="path4175-70"
+           cx="-18.615322"
+           cy="274.08163"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-3)"
+           id="path4175-74"
+           cx="-24.789249"
+           cy="274.31549"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-635)"
+           id="path4175-77"
+           cx="-30.588997"
+           cy="279.08624"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-12)"
+           id="path4175-65"
+           cx="-33.161465"
+           cy="284.27795"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-45)"
+           id="path4175-96"
+           cx="-33.114693"
+           cy="288.39392"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-31)"
+           id="path4175-02"
+           cx="-31.711529"
+           cy="291.38733"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-38)"
+           id="path4175-95"
+           cx="-28.624567"
+           cy="293.77271"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-80)"
+           id="path4175-328"
+           cx="-26.753679"
+           cy="294.4743"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-2)"
+           id="path4175-1"
+           cx="-30.401909"
+           cy="291.34055"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-57)"
+           id="path4175-23"
+           cx="-30.776087"
+           cy="288.7681"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-9)"
+           id="path4175-94"
+           cx="-30.401909"
+           cy="287.08429"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-25)"
+           id="path4175-54"
+           cx="-27.689123"
+           cy="286.42947"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-86)"
+           id="path4175-323"
+           cx="-24.742476"
+           cy="287.69232"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-33)"
+           id="path4175-59"
+           cx="-23.432856"
+           cy="292.7905"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-70)"
+           id="path4175-63"
+           cx="-20.579754"
+           cy="294.05334"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-639)"
+           id="path4175-685"
+           cx="-17.446018"
+           cy="291.5744"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-41)"
+           id="path4175-73"
+           cx="-17.679878"
+           cy="288.58099"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-385)"
+           id="path4175-29"
+           cx="-15.200954"
+           cy="286.14883"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-75)"
+           id="path4175-948"
+           cx="-12.72203"
+           cy="285.11984"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-50)"
+           id="path4175-324"
+           cx="-10.196332"
+           cy="284.88599"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-20)"
+           id="path4175-31"
+           cx="-11.505953"
+           cy="288.48746"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-05)"
+           id="path4175-67"
+           cx="-12.768802"
+           cy="290.31155"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-050)"
+           id="path4175-651"
+           cx="-13.704245"
+           cy="291.71472"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-89)"
+           id="path4175-17"
+           cx="-15.154182"
+           cy="293.02435"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-54)"
+           id="path4175-24"
+           cx="-18.849184"
+           cy="294.00656"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-28)"
+           id="path4175-50"
+           cx="-22.123236"
+           cy="295.26941"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-58)"
+           id="path4175-58"
+           cx="-24.882793"
+           cy="295.83069"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-78)"
+           id="path4175-778"
+           cx="-26.753679"
+           cy="296.34518"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-052)"
+           id="path4175-15"
+           cx="-28.250389"
+           cy="297.09354"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-74)"
+           id="path4175-64"
+           cx="-23.760262"
+           cy="297.7951"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-34)"
+           id="path4175-89"
+           cx="-20.673298"
+           cy="296.25162"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-71)"
+           id="path4175-16"
+           cx="-17.820196"
+           cy="293.63239"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-35)"
+           id="path4175-13"
+           cx="-14.639688"
+           cy="290.91962"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-284)"
+           id="path4175-66"
+           cx="-12.394625"
+           cy="288.20682"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-680)"
+           id="path4175-21"
+           cx="-10.851143"
+           cy="285.68112"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-36)"
+           id="path4175-433"
+           cx="-12.441397"
+           cy="283.10864"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-453)"
+           id="path4175-03"
+           cx="-13.844562"
+           cy="286.19562"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-780)"
+           id="path4175-947"
+           cx="-13.984878"
+           cy="288.90842"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-362)"
+           id="path4175-774"
+           cx="-24.087666"
+           cy="290.7793"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-90)"
+           id="path4175-49"
+           cx="-30.401909"
+           cy="289.84384"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-24)"
+           id="path4175-47"
+           cx="-31.009947"
+           cy="287.78586"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-348)"
+           id="path4175-91"
+           cx="-31.805073"
+           cy="284.23117"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-289)"
+           id="path4175-25"
+           cx="-29.185833"
+           cy="277.96371"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-121)"
+           id="path4175-84"
+           cx="-29.513237"
+           cy="276.23315"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-49)"
+           id="path4175-46"
+           cx="-26.613363"
+           cy="274.22195"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-060)"
+           id="path4175-701"
+           cx="-19.784626"
+           cy="274.12839"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-0605)"
+           id="path4175-53"
+           cx="-13.002663"
+           cy="277.58954"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-701)"
+           id="path4175-80"
+           cx="-11.64627"
+           cy="280.20877"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-85)"
+           id="path4175-97"
+           cx="-11.552725"
+           cy="283.01511"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-67)"
+           id="path4175-542"
+           cx="-12.72203"
+           cy="278.99271"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-04)"
+           id="path4175-81"
+           cx="-13.751018"
+           cy="276.84119"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-84)"
+           id="path4175-45"
+           cx="-14.265511"
+           cy="275.76541"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-39)"
+           id="path4175-82"
+           cx="-16.136398"
+           cy="276.98151"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-577)"
+           id="path4175-38"
+           cx="-17.446018"
+           cy="281.93936"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-02)"
+           id="path4175-07"
+           cx="-21.749058"
+           cy="282.64093"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-0509)"
+           id="path4175-238"
+           cx="-22.403868"
+           cy="280.39587"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-705)"
+           id="path4175-918"
+           cx="-23.011906"
+           cy="280.39587"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-589)"
+           id="path4175-35"
+           cx="-26.519819"
+           cy="281.00391"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-23)"
+           id="path4175-652"
+           cx="-30.074503"
+           cy="282.82803"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-32)"
+           id="path4175-71"
+           cx="-29.887415"
+           cy="279.83459"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-83)"
+           id="path4175-48"
+           cx="-25.444059"
+           cy="274.17517"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-025)"
+           id="path4175-93"
+           cx="-14.68646"
+           cy="281.47162"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-48)"
+           id="path4175-83"
+           cx="-19.878172"
+           cy="294.1001"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-22)"
+           id="path4175-10"
+           cx="-30.916403"
+           cy="293.21146"
+           rx="5.8932929"
+           ry="0.23386084" />
+        <ellipse
+           style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter4181-30)"
+           id="path4175-933"
+           cx="-30.355137"
+           cy="276.60733"
+           rx="5.8932929"
+           ry="0.23386084" />
+      </g>
+    </g>
+  </g>
+</svg>

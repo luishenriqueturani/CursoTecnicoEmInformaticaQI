@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cadastro de Empresa</title>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <!-- descrição do que seu site faz -->
+        <meta name="description" content="Site para vagas de trabalho online na região do Vale do Sinos.">
+        <!-- Palavras chave para facilitar seu site ser encontrado -->
+        <meta name="keywords" content="vagas, trabalho, Vale do Sinos, serviço, emprego, ocupação, procurar vagas, vagas online, Rio dos Sinos, São Leopoldo, Novo Hamburgo, Araricá, Canoas, Campo Bom, Dois Irmãos, Estância Velha, Esteio, Ivoti, Nova Hartz, Nova Santa Rita, Portão, São Leopoldo, Sapiranga, Sapucaia do Sul">
+        <!-- Autor do site, facilita a busca para encontrar anuncios relacionado ao autor do site -->
+        <meta name="author" content=""/>
+        
+        
+        
+        <!--  Bootstrap  -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="estilos.css"/>
+        
+        
+        
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="index.html"><img src="imagens/Netjobs.png" alt="Logo do site" id="logo"/></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
+                <ul class="navbar-nav mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#"><img src="" alt="" class="#" id="#"/></a>
+                    </li>
+                    <li class="nav-item dropdown direita">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Empresa
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="cadastroEmpresa.html">Cadastrar</a>
+                            <a class="dropdown-item" href="cadastrovaga.html">Novas Vagas</a>
+                            <a class="dropdown-item" href="#" onclick="manutencao()">Gerenciar Vagas</a>
+                            <a class="dropdown-item" href="#" onclick="manutencao()">Estatíscticas do mercado de Trabalho</a>
+                        </div>
+                    </li>
+                    
+                    <li class="nav-item dropdown direita">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Pessoa
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="cadastroCurriculo.html">Cadastrar</a>
+                            <a class="dropdown-item" href="#" onclick="manutencao()">Gerenciar currículo</a>
+                            <a class="dropdown-item" href="#" onclick="manutencao()">Gerenciar Conta</a>
+                        </div>
+                    </li>
+                    
+                    <li class="nav-item form-inline direita" id="login">
+                        <a class="nav-link" href="#" onclick="manutencao()">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        
+        <div class="container">
+            
+            <h1>Preencha os campos de cadastro de Empresa</h1>
+            <p id="legenda">Os campos com <span>*</span> devem ser preenchidos obrigatoriamente.</p>
+            <form id="cadastro">
+                <div class="form-group">
+                    <label for="cnpj">CNPJ<span>*</span></label>
+                    <input type="text" class="form-control" size="50" id="cnpj" placeholder="Digite o cnpj da empresa..."/>
+                    
+                    <label for="nome">Nome Da empresa<span>*</span></label>
+                    <input type="text" class="form-control" size="50" id="nome" placeholder="Digite o nome da Empresa..."/>
+                    
+                    <label for="email-cand">E-mail de candidatos a vaga<span>*</span></label>
+                    <input type="email" class="form-control" size="50" id="email-cand" placeholder="Digite o e-mail da empresa para envios de candidatos a vaga"/>
+                    
+                    <label for="email">E-mail da empresa<span>*</span></label>
+                    <input type="email" class="form-control" size="50" id="email" placeholder="E-mail para contato com a sua empresa..."/>
+                    
+                    <label for="fone">Telefone principal de contato<span>*</span></label>
+                    <input type="text" class="form-control" size="50" id="fone" placeholder="Digite o telefone principal..."/>
+                    
+                    <label for="fone2">Telefone secundário de contato</label>
+                    <input type="text" class="form-control" size="50" id="fone2" placeholder="Digite o telefone secundário..."/>
+                    
+                    <label>Endereco<span>*</span></label>
+                    <div class="Form-group">
+                        <label for="inputCEP">Digite o cep<span>*</span></label>
+                        <input type="number" class="form-control" size="50" id="inputCEP" placeholder="Digite o cep..." min="0" />
+                        <button type="button" onclick="consultarCEP()" class="btn btn-primary" id="btnCep">Pesquisar</button>
+                        
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Rua</th>
+                                    <th scope="col">Bairro</th>
+                                    <th scope="col">Cidade</th>
+                                    <th scope="col">Estado</th>
+                                </tr>
+                            </thead>
+                            <tbody id="resultados">
+                
+                            </tbody>
+                        </table>
+                        
+                        <label for="num">Número<span>*</span></label>
+                        <input type="number" class="form-control" size="50" id="num" placeholder="Número do rua..." min="0"/>
+                        
+                        <label for="complemento">Complemento</label>
+                        <input type="number" class="form-control" size="50" id="complemento" placeholder="Complemento..." min="0"/>
+                        
+                    </div>
+                    
+                    <label for="area">Área de atuação<span>*</span></label>
+                    <input type="text" class="form-control" size="50" id="area" placeholder="Digite a área de atuação da empresa..."/>
+                    
+                    <button class="btn btn-primary">Cadastrar</button>
+                    
+                </div>
+            </form>
+            
+            
+            
+            
+            <hr/>
+            <footer>
+                <div class="row">
+                    <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                        <p>Contatos: </p>
+                        <ul>
+                            <li>Fixo: (51)35353535</li>
+                            <li>Celular Claro: (51)999999999</li>
+                            <li>Celular OI: (51)988888888</li>
+                            <li>Celular TIM: (51)977777777</li>
+                            <li>Celular Vivo: (51)966666666</li>
+
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 endereco">
+                        <p>Endereço: </p>
+                        <ul>
+                            <li>Rua: Vincente da Fontoura, 110, apto. 540.</li>
+                            <li>Cidade: Novo Hamburgo.</li>
+                            <li>Estado: Rio Grande do Sul.</li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 sobre">
+                        <p>Sobre o Site:</p>
+                        <ul>
+                            <li>Desenvolvido por:</li>
+                            <li><a href="https://www.linkedin.com/in/feccesar/" target="_blank">Fernando César</a> e 
+                            <a href="https://www.linkedin.com/in/luis-henrique-turani/" target="_blank">Luís Henrique</a><br/></li>
+                            <li><span onclick="versao()" id="versao">Clique aqui para ver a versão.</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        
+        
+        <!-- JS do Bootstrap -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+        <script src="w3.js"></script>
+        
+    </body>
+</html>

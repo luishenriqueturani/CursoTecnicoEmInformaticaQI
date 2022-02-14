@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nota>
+	<emitente>
+		<num>012093 Série 1</num>
+		<logo>Logo Luthieria Brasil</logo>
+		<nome>Luthieria Brasil Industria e Comércio LTDA ME</nome>
+		<saida>Sim</saida>
+		<entrada>n/a</entrada>
+		<enderecosa>Rua Gruenerwinkel, 2425</enderecosa>
+		<bairrosa>Aymoré</bairrosa>
+		<municipio>Guabiruba</municipio>
+		<uf>SC</uf>
+		<fone>4733542279</fone>
+		<cep>88.360-000</cep>
+		<via>1ª via destinatário/remetente</via>
+		<cnpj>17.042.611/0001-03</cnpj>
+		<operacao>Venda de Mercadoria</operacao>
+		<cfop>n/a</cfop>
+		<iest>n/a</iest>
+		<ie>25.740.550-0</ie>
+	</emitente>
+	<destinatario>
+		<nome>Luís Henrique Turani</nome>
+		<cpf>832.394.560-87</cpf>
+		<endereco>Rua Benedito Calixto, 70</endereco>
+		<bairro>São Jorge</bairro>
+		<cep>93.537-200</cep>
+		<municipio>Novo Hamburgo</municipio>
+		<fone>5135823921</fone>
+		<uf>RS</uf>
+		<ie>n/a</ie>
+		<dataem>20/03/2018</dataem>
+		<datasaida>20/03/2018</datasaida>
+		<horasaida>12:16:31</horasaida>
+	</destinatario>
+	<fatura>
+		n/a
+	</fatura>
+	<dadosprodutos>
+		<codigo>4145</codigo>
+		<descricao>Óleo de Limão para limpeza de escalas - D'Addario/Planet Waves</descricao>
+		<classificacao>39100019</classificacao>
+		<situacao>n/a</situacao>
+		<unidade>un</unidade>
+		<quantidade>01</quantidade>
+		<valorunitario>39,90</valorunitario>
+		<valortotal>39,90</valortotal>
+		<aliquotas>
+			<icms>0,00</icms>
+			<ipi>0,00</ipi>
+		</aliquotas>
+		<valoripi>0,00</valoripi>
+	</dadosprodutos>
+	<calculoimposto>
+		<basedecalculoicms>0,00</basedecalculoicms>
+		<valoricms>0,00</valoricms>
+		<basedecalculoicmssubs>0,00</basedecalculoicmssubs>
+		<valoricmssubs>0,00</valoricmssubs>
+		<valortotaldosprodutos>39,90</valortotaldosprodutos>
+		<valorfrete>20,23</valorfrete>
+		<valorseguro>0,00</valorseguro>
+		<despesas>0,00</despesas>
+		<valoripi>0,00</valoripi>
+		<valortotal>60,13</valortotal>
+	</calculoimposto>
+	<transportador>
+		<nome>Empresa Brasileira de Correios e Telégrafos</nome>
+		<freteporconta1emitente2destinatario>1</freteporconta1emitente2destinatario>
+		<placa>n/a</placa>
+		<uf>n/a</uf>
+		<cnpj>34.028.316/0028-23</cnpj>
+		<endereco>Rua Romeu José Vieira, 90</endereco>
+		<municipio>São José</municipio>
+		<uf>SC</uf>
+		<ie>250254700</ie>
+		<quantidade>1</quantidade>
+		<especie>n/a</especie>
+		<marca>n/a</marca>
+		<numero>n/a</numero>
+		<peso>0,130</peso>
+		<pesoliquido>0,00</pesoliquido>
+	</transportador>
+	<dadosadicionais>
+		<infocomp>
+			Total aprocimado de tributos: R$ 18,36 (30,53%) Federais R$ 8,14 (13,53%) 
+			Estaduais R$ 10,22 (17,00%). Fonte IBPT.
+			Documento emitido por ME ou Optante pelo simples nacional
+			Referente pedido 26610
+			Código de rastreamento PP53329884 (Nota fiscal - 012093)
+		</infocomp>
+		<fisco>n/a</fisco>
+		<numctrlform>000.000</numctrlform>
+	</dadosadicionais>
+	<dadosaidf>
+		<recebimento>
+			Recebemos de Luthieria Brasil Indústria e Comércio LTDA ME os produtos constantes da nota fiscal indicada ao lado.
+		</recebimento>
+		<nfe>012093 Série 1</nfe>
+		<daterec>20/03/2018</daterec>
+		<idassinaturarecebedor>n/a</idassinaturarecebedor>
+	</dadosaidf>
+</nota>

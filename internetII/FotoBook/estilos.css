@@ -1,0 +1,174 @@
+@charset "UTF-8";
+
+/*    Home      */
+
+/* Cabeçalho */
+body header nav {
+    background-color: #000;
+}
+
+body header nav.navbar div#navbarSupportedContent ul li a {
+    color: #fff;
+}
+
+body header nav.navbar div#navbarSupportedContent ul li a:hover {
+    background-color: rgba(180,180,180,0.6);
+}
+
+body header nav.navbar div#navbarSupportedContent ul li img#logo {
+    width: auto;
+    height: 30px;
+    margin-right: 20px;
+}
+
+body header nav.navbar div#navbarSupportedContent form input:hover {
+    background-color: #f2f2ff;
+}
+
+header nav form#Busca button:hover {
+    border: 1px solid rgba(0,0,0,0.5);
+    background-color: #f2f2ff;
+}
+
+header nav ul#dono li.nav-item img#fotoPerfil, div.container-fluid div#meio article.posts img.fotoPerfil {
+    width: 50px;
+}
+
+
+/* Corpo */
+div.container-fluid {
+}
+
+
+/* Coluna da esquerda */
+div.container-fluid div#esquerdo {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(240,240,240,0.6);
+    padding-top: 8px;
+}
+
+div.container-fluid div.row div#esquerdo img.icon {
+    height: auto;
+    width: 20px;
+    margin-right: 5px;
+}
+
+div.container-fluid div#esquerdo p a {
+    text-decoration: none;
+    color: #000;
+}
+
+div.container-fluid div#esquerdo p a:hover {
+    text-decoration: underline;
+}
+
+div.container-fluid div#esquerdo ul#listaAlbum a {
+    text-decoration: none;
+    color: #000;
+}
+
+div.container-fluid div#esquerdo ul#listaAlbum li {
+    list-style: none;
+}
+
+div.container-fluid div#esquerdo ul#listaAlbum a:hover {
+    text-decoration: underline;
+}
+
+
+/* Coluna do meio */
+div.container-fluid div#meio {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(240,240,240,0.6);
+}
+
+div.container-fluid div#meio article {
+    background-color: rgba(255,255,255,0.3);
+    margin: 10px;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 5px;
+}
+
+div.container-fluid section#postagem form.form-group fieldset#novaPostagem {
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 10px;
+}
+
+div.container-fluid section#postagem form.form-group fieldset#novaPostagem input#file {
+    margin-top: 5px;
+}
+
+div.container-fluid section#postagem form.form-group fieldset#novaPostagem button.btn{
+    margin-top: 5px;
+    width: 85px;
+}
+
+div.container-fluid section#postagem form.form-group fieldset#novaPostagem button.btn:hover {
+    border: 1px solid rgba(0,0,0,0.4);
+}
+
+div.container-fluid div#meio article.posts img.fotoPerfil {
+    margin-right: 10px;
+}
+
+div.container-fluid div#meio article.posts p.donoPostagem {
+    font-family: Arial, sans-serif;
+    font-size: 13pt;
+}
+
+div.container-fluid div#meio article.posts p.data {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    font-style: italic;
+}
+
+div.container-fluid div#meio article.posts p.legenda {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+}
+
+/* Coluna da direita */
+div.container-fluid div#direito {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(240,240,240,0.6);
+}
+
+div.container-fluid div#direito div.amigos {
+    background-color: rgba(255,255,255,0.6);
+    height: 100%;
+    padding: 10px;
+}
+
+div.container-fluid form#formAmigos div.form-group input#buscaAmigos{
+    position: fixed; 
+    bottom: 2px;
+}
+
+div.container-fluid div.row div#direito div.amigos ul li {
+    margin-left: -20px;
+    margin-bottom: 5px; 
+    list-style: none;
+    transition: 0.2s;
+}
+
+div.container-fluid div.row div#direito div.amigos ul li:hover {
+    border: 1px solid rgba(0,0,0,0.5);
+    padding: 2px;
+}
+
+@media (min-width: 990px){
+    #amigos, #foto
+    {
+        display: none;
+    }
+}
+
+@media (max-width: 990px) 
+{
+  .pesquisa, #direito, #esquerdo
+   {
+    display: none;
+   }
+}
+
+

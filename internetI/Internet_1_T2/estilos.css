@@ -1,0 +1,69 @@
+/* index  */
+body{
+	margin-left:120px;
+	margin-right:120px;
+	background-color:#fefefe;
+	font-family:Times-new-Roman;
+}
+
+#body{
+	background-color:#bebebe;
+	text-align:justify;
+	font-size:18px;
+	text-align:center;
+	height:100%;
+	
+}
+
+#imgcss{
+	width:800px;
+	height:145px;
+	left:250px;
+	top:235px;
+	
+}
+
+#flag{
+	color:#ff0000;
+	top:500px;
+	
+}
+#flag2{
+	color:#ff0000;
+	top:600px;	
+	
+}
+#id1{
+	text-align:left;
+	margin-left:10px;
+}
+#i1,#i2{
+	width:240px;
+	border-top-color:#000000;
+	border-left-color:#000000;
+	border-right-color:#E0E0E0;
+	-webkit-border-after-color: #E0E0E0;
+}
+select{
+	border-top-color:#000000;
+	border-left-color:#000000;
+	border-right-color:#E0E0E0;
+	-webkit-border-after-color: #E0E0E0;
+}
+button{
+	border-right-color:#000000;
+	-webkit-border-after-color: #000000;
+	border-top-color:#eeeeee;
+	border-left-color:#eeeeee;
+}
+
+button:active{
+	border: solid 1px black;
+}
+
+
+
+
+
+
+

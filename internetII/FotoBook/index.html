@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Foto Book</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"/>
+        
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        
+        <link rel="stylesheet" type="text/css" href="estilos.css" />
+        
+    </head>
+    <body>
+        <!-- Cabeçalho -->
+        
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><img src="logo.png" alt="Logo" id="logo"/></a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(página atual)</span></a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" id="amigos" href="#">Amigos</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" id="foto" href="#">Fotos</a>
+                        </li>
+                        
+                    </ul>
+                    <ul class="navbar-nav mr-auto" id="dono">
+                        <li class="nav-item">
+                            <img src="fotocurriculo.jpg" alt="Imagem do dono do perfil" class="rounded-circle" id="fotoPerfil"/>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Luís Henrique</a>
+                        </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0" id="Busca">
+                        <input class="form-control mr-sm-2" type="search" placeholder="O que você procura..." aria-label="Pesquisar">
+                        <button class="btn my-2 my-sm-0" type="submit">Pesquisar</button>
+                    </form>
+                </div>
+            </nav>
+        </header>
+
+        
+        
+        <!-- Corpo -->
+        <div class="container-fluid">
+            <div class="row flex-xl-nowrap">
+                <div id="esquerdo" class="col-12 col-md-3 col-lg-2 col-xl-2">
+                    <p><a href=""><img src="galeria.png" class="icon img-fluid" />Galeria</a></p>
+                    <p><a href=""><img src="album.png" class="icon img-fluid"/>Álbuns</a></p>
+                    <ul id="listaAlbum">
+                        <li><a href="">Último mês</a></li>
+                        <li><a href="">Última semana</a></li>
+                        <li><a href="">Live</a></li>
+                        <li><a href="">Gameplays</a></li>
+                        <li><a href="">ScreenShots</a></li>
+                        <li><a href="">Férias 2018</a></li>
+                        <li><a href="">Gatos</a></li>
+                        <li><a href="">Cachorros</a></li>
+                        <li><a href="">Piriquitos</a></li>
+                        <li><a href="">Tartarugas</a></li>
+                        
+                    </ul>
+                    <p><a href=""><img src="perfil.png" class="icon img-fluid"/>Configurar Perfil</a></p>
+                    <p><a href=""><img src="config.png" class="icon img-fluid"/>Configurar Conta</a></p>
+                    <p><a href=""><img src="sobre.png" class="icon img-fluid"/>Sobre</a></p>
+                    
+                    
+                </div>
+                
+                <div class="col-12 col-md-9 col-lg-8 col-xl-8" id="meio">
+                    <section id="postagem">
+                        <div class="form-group">
+                            <form class="form-group">
+                                <fieldset id="novaPostagem">
+                                    <label for="#comentPost">Nava Postagem ou Evento</label>
+                                    <input class="form-control" type="text" size="50" maxlength="999999" placeholder="Texto de legenda..." id="comentPost"/>
+                                    <input class="form-control-file" id="file" type="file" />
+                                    <button class="btn">Postar</button>
+                                </fieldset>
+                            </form>
+                        </div>    
+                    </section>
+                    <article class="posts">
+                        <p class="donoPostagem"><img src="fotocurriculo.jpg" class="rounded-circle fotoPerfil"/>Luís Henrique Turani</p>
+                        <p class="data">19/02/2019 às 13:14</p>
+                        <p class="legenda">Aquele selfie antes da morte kkkkkkk.</p>
+                        <img src="skyrim2.png" alt="Imagem postada" class="img-fluid imagemPostada"/>
+                        
+                    </article>
+                    <article class="posts">
+                        <p class="donoPostagem"><img src="fotocurriculo.jpg" class="rounded-circle fotoPerfil"/>Luís Henrique Turani</p>
+                        <p class="data">19/02/2019 às 13:41</p>
+                        <p class="legenda">Penúltimo capítulo da saga.</p>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/wMB1SVPltzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                            </iframe>
+                        </div>
+                    </article>
+                    <article class="posts">
+                        <p class="donoPostagem"><img src="fernando.jpg" class="rounded-circle fotoPerfil"/>Fernando César dos Santos</p>
+                        <p class="data">20/02/2019 às 18:57</p>
+                        <p class="legenda">Jogando Batman Arkham Asylum</p>
+                        <img src="batman.jpeg" alt="Imagem postada" class="img-fluid imagemPostada"/>
+                    </article>
+                    <article class="posts">
+                        <p class="donoPostagem"><img src="fernando.jpg" class="rounded-circle fotoPerfil"/>Fernando César dos Santos</p>
+                        <p class="data">20/02/2019 às 19:00</p>
+                        <p class="legenda">Jogos do Miranha</p>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/OhOvnPIcE8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </article>
+                    
+                </div>
+                
+                <div class="col-12 col-md-3 col-lg-2 col-xl-2" id="direito">
+                    <div class="amigos">
+                        <ul id="lista">
+                            <li>Fernando César</li>
+                            <li>Lucas Matheus</li>
+                            <li>Matheus</li>
+                            <li>Luis Fernando</li>
+                            <li>Angélica</li>
+                            <li>Kauan PintoLive</li>
+                            <li>Mickael</li>
+                            <li>Renato Elíbio</li>
+                            <li>Carlos Henrique</li>
+                            <li>Gilmar dos Santos</li>
+                            <li>Gabriela Trevisan</li>
+                            <li>Valeska</li>
+                            <li>Lucas Kupsinsku</li>
+                        </ul>
+                        <form id="formAmigos" class="pesquisa">
+                            <div class="form-group">
+                                <input  oninput="w3.filterHTML('#lista', 'li', this.value)" type="text" placeholder="Search..." size="15" maxlength="30" id="buscaAmigos"/>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        <!--  Rodapé  -->
+        
+        
+        <!-- JavaScript (Opcional) -->
+        <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+        <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+        <script src="https://www.w3schools.com/lib/w3.js"></script>
+    </body>
+</html>

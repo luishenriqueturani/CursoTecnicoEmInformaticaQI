@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<title>T2 Homepage</title>
+
+    </head>
+    <body>
+	
+	<div id="body">
+		<div id="id1">
+			
+                    <h1>Google Search Engine</h1>
+			
+                    <p>This is a demo of Google Search Engine. Note, it is research in progress so expect some downtimes and malfunctions. You can find the 
+			older <a href="http://www.google.com.br">Backrub web page here.</a>
+                    </p>
+		
+                    <p>Google is being developed by <a href="https://pt.wikipedia.org/wiki/Larry_Page" target="_blank">Larry Page</a> and 
+			<a href="https://pt.wikipedia.org/wiki/Sergey_Brin" target="_blank">Sergey Brin</a> with very talented implementation help by 
+			<a href="https://www.google.com.br/search?hl=pt-BR&ei=ICq1WpGyGsXAwAT--rW4Bw&q=Scott+Hassan&oq=Scott+Hassan&gs_l=psy-ab.3..35i39k1l2j0i203k1l7j0i22i30k1.156117.156117.0.157855.1.1.0.0.0.0.153.153.0j1.1.0....0...1c.1.64.psy-ab..0.1.138....0.Vw4SGvlLySY" target="_blank">Scott Hassan</a> 
+			and <a href="https://www.google.com.br/search?hl=pt-BR&ei=vyq1WuPzEYGfwATFgKLIBQ&q=alan+steremberg&oq=Allan+Steremberg&gs_l=psy-ab.1.0.35i39k1j0i19k1l2j0i13i30i19k1l2j0i8i13i30i19k1.45566.45566.0.47900.1.1.0.0.0.0.133.133.0j1.1.0....0...1c.1.64.psy-ab..0.1.133....0.cAgZ9UBBOnA" target="_blank">Alan Steremberg</a>.
+                    </p>
+		</div>
+		<div>
+                    <img src="primeiro_logo_do_google.png" id="imgcss" alt="primeiro_logo_do_google">
+		</div>
+		
+		<div>
+                    <p id="flag">Search Stanford</p>
+		
+                    <form method="POST" action="https://formsubmissiontest.herokuapp.com">
+			<input type="hidden" value="Stanford" name="Tipo de Pesquisa">
+			<label for="i1"></label>
+			<input type="text" name="Pesquisa" id="i1">
+			
+			<br>
+			<select name="Results">
+                            <option value="10">10 Results</option>
+                            <option value="20">20 Results</option>
+                            <option value="30">30 Results</option>
+                            <option value="40">40 Results</option>
+                            <option value="50">50 Results</option>
+			</select>
+			<select name="Clustering">
+                            <option value="On">Clustering On</option>
+                            <option value="Off">Clustering Off</option>
+			</select>
+			<button type="submit">Search</button>
+                    </form>	
+		
+		</div>
+			
+			
+		<div>	
+                    <p id="flag2">Search The Web</p>
+			
+                    <form method="POST" action="https://formsubmissiontest.herokuapp.com">
+			<input type="hidden" value="Web" name="Tipo de Pesquisa">
+			<label for="i2"></label>
+			<input type="text" name="Pesquisa" id="i2">
+			
+                        <br><select name="Results">
+                            <option value="10">10 Results</option>
+                            <option value="20">20 Results</option>
+                            <option value="30">30 Results</option>
+                            <option value="40">40 Results</option>
+                            <option value="50">50 Results</option>
+                        </select>
+                        <select name="Clustering">
+                            <option value="On">Clustering On</option>
+                            <option value="Off">Clustering Off</option>
+                        </select>
+			<button type="submit">Search</button>
+                    </form>
+		
+		</div>
+		<p>
+                    This page was developed by <a href="page2.html" target="_blank">Luís Henrique Turani</a>.
+		</p>
+		
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+	</div>
+	
+    </body>
+
+</html>

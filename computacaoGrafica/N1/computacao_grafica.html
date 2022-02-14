@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Currículo de Luís Henrique</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="../../../css/estilos.css" />
+    <!--  Bootstrap  -->
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" 
+    integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous"/>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
+            aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="profissional.html">Experiência Profissional</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="formacao.html" tabindex="-1">Formação Acadêmica</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="projetos.html">Projetos</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>Luís Henrique Turani</h1>
+            <img src="../../../imagens/fotocurriculo.jpg" alt="Foto de Luís Henrique"
+                class="img-thumbnail rounded-circle float-right" />
+        </header>
+        <hr />
+        <section>
+            <h2>Computação Gráfica N1</h2>
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <h3>Enunciado do Trabalho</h3>
+                    <p class="indent">
+                        Foi pedido para fazermos uma capa de livro, uma capa de um jogo e um baner de um filme, onde os
+                        três tivecem o mesmo tema, como se cada um foce uma versão do mesmo enrredo, tendo assim um
+                        livro, um jogo e um filme em sua versão da mesma história.<br />
+                        As ferramentas usadas foram o <a href="https://www.gimp.org" target="_blank">Gimp</a> e o <a
+                            href="https://inkscape.org/pt-br/" target="_blank">Inkscape</a>. O tema escolhido foi o <a
+                            href="https://www.pokemon.com/br/" target="_blank">Pokémon</a>, que é uma série em anime e
+                        de jogos aclamada no mundo todo.
+                    </p>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <h3>Capa do Livro</h3>
+                    <img src="Capa_do_Livro.png" alt="Capa de um livro do Pokémon" class="img-thumbnail" />
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <h3>Baner do Filme</h3>
+                    <img src="baner_do_filme.png" alt="Baner de um filme do Pokémon" class="img-thumbnail" />
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                    <h3>Capa do Jogo</h3>
+                    <img src="capa_do_jogo.png" alt="Capa de um Jogo do Pokémon" class="img-thumbnail" />
+                </div>
+
+            </div>
+        </section>
+
+        <hr />
+        <footer>
+            <div class="row">
+                <div class="col-sm">
+                    <h2>Contato</h2>
+                    <p id='fone'>
+                        
+                    </p>
+                    <p>
+                        E-mail: luis_henrique_t@hotmail.com
+                    </p>
+                    <p><a href="http://linkedin.com/in/luis-henrique-turani" target="_blank">Linkedin</a></p>
+                </div>
+                <div class="col-sm footdireito">
+                    <p>Desenvolvido por Luís Henrique Turani</p>
+                    <p>Meu GitHub: <a href="https://github.com/luishenriqueturani" target="_blank">luishenriqueturani</a></p>
+                    <!-- Button trigger modal -->
+                    <p data-toggle="modal" data-target="#exampleModal" onclick="info()" class="ponteiro">Sobre este
+                        Site</p>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel"></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p id="corpoTexto"></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="limparModal()">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- JS do Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+    <script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+    <script src="js/funcoes.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            fones();
+        });    
+    </script>
+</body>
+
+</html>

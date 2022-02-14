@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Diagrama de atividades tela de jogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="246.13033"
+     inkscape:cy="721.22495"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.22311875;stroke-opacity:1"
+       id="rect10"
+       width="71.478973"
+       height="156.52359"
+       x="18.122124"
+       y="18.032829"
+       ry="1.3476868" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.17235312;stroke-opacity:1"
+       id="rect337"
+       width="4.5916495"
+       height="4.6689205"
+       x="47.966396"
+       y="168.46873"
+       ry="2.3344603"
+       rx="2.2958248" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.450148"
+       y="29.865318"
+       id="text231"><tspan
+         sodipodi:role="line"
+         id="tspan229"
+         x="21.450148"
+         y="29.865318"
+         style="stroke-width:0.26458332">Executor</tspan></text>
+    <circle
+       id="path233"
+       style="fill:#000000;stroke:none"
+       cx="51.310268"
+       cy="39.503712"
+       r="1.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.310267,41.204604 -0.09449,14.079612 -2.26786,-2.645832"
+       id="path235"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.215776,55.284216 2.173359,-2.362351"
+       id="path237"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.31013012;stroke-opacity:1"
+       id="rect239"
+       width="53.627071"
+       height="25.467846"
+       x="24.213249"
+       y="55.873955"
+       ry="1.852702" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.332588"
+       y="62.182281"
+       id="text243"><tspan
+         sodipodi:role="line"
+         id="tspan241"
+         x="30.332588"
+         y="62.182281"
+         style="stroke-width:0.26458332">Clicar com o </tspan><tspan
+         sodipodi:role="line"
+         x="30.332588"
+         y="70.119781"
+         style="stroke-width:0.26458332"
+         id="tspan245">mouse no </tspan><tspan
+         sodipodi:role="line"
+         x="30.332588"
+         y="78.057281"
+         style="stroke-width:0.26458332"
+         id="tspan247">botão jogar</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.743302,81.459066 V 94.310257 L 48.09747,91.28645"
+       id="path249"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.743302,94.310257 53.200149,91.56993"
+       id="path251"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27657646;stroke-opacity:1"
+       id="rect239-5"
+       width="60.399643"
+       height="17.983921"
+       x="21.919697"
+       y="94.673203"
+       ry="1.3082712" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="26.836309"
+       y="102.34225"
+       id="text255"><tspan
+         sodipodi:role="line"
+         id="tspan253"
+         x="26.836309"
+         y="102.34225"
+         style="stroke-width:0.26458332">Jogar até perder </tspan><tspan
+         sodipodi:role="line"
+         x="26.836309"
+         y="110.27975"
+         style="stroke-width:0.26458332"
+         id="tspan276">todas as vidas</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.837798,112.7366 -0.0945,9.35491 -3.40178,-2.64583"
+       id="path272"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.743297,122.09151 2.740334,-2.26786"
+       id="path274"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24831057;stroke-opacity:1"
+       id="rect239-5-7"
+       width="57.68758"
+       height="15.177365"
+       x="25.348545"
+       y="122.72382"
+       ry="1.1041034" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="31.372025"
+       y="132.01338"
+       id="text280"><tspan
+         sodipodi:role="line"
+         id="tspan278"
+         x="31.372025"
+         y="132.01338"
+         style="stroke-width:0.26458332">Final do jogo</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.23559606;stroke-opacity:1"
+       id="rect239-5-0"
+       width="59.684669"
+       height="13.205705"
+       x="24.113766"
+       y="147.19141"
+       ry="0.96067166" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.380207"
+       y="155.63689"
+       id="text284"><tspan
+         sodipodi:role="line"
+         id="tspan282"
+         x="36.380207"
+         y="155.63689"
+         style="stroke-width:0.26458332">Tela Final</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.584375,137.59675 -0.0945,9.35491 -3.40178,-2.64583"
+       id="path272-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.489874,146.95166 2.740334,-2.26786"
+       id="path274-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19592147px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.528393,160.56997 -0.06714,7.22016 -2.416785,-2.04207"
+       id="path272-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19592147px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.461255,167.79013 1.946863,-1.75035"
+       id="path274-0"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="path333"
+       style="fill:#000000;stroke:none"
+       cx="50.365326"
+       cy="170.85043"
+       r="1.5" />
+  </g>
+</svg>

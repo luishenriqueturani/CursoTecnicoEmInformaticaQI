@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biblioteca de Jogos</string>
+    <string name="aventura">Aventura</string>
+    <string name="rpg">RPG</string>
+    <string name="fps">FPS</string>
+    <string name="rts">RTS</string>
+    <string name="corrida">Corrida</string>
+    <string name="sobrevivencia">Sobrevivência</string>
+    <string name="terror">Terror</string>
+    <string name="adulto">Adulto</string>
+    <string-array name="genero">
+        <item>@string/aventura</item>
+        <item>@string/rpg</item>
+        <item>@string/fps</item>
+        <item>@string/rts</item>
+        <item>@string/corrida</item>
+        <item>@string/sobrevivencia</item>
+        <item>@string/terror</item>
+        <item>@string/adulto</item>
+    </string-array>
+
+</resources>

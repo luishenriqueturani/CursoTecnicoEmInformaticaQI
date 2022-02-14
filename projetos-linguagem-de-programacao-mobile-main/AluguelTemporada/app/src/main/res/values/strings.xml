@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aluguel Temporada</string>
+    <string name="kitnet">Kitnet R$ 350,00</string>
+    <string name="quartos2">2 Quartos R$ 500,00</string>
+    <string name="quartos4">4 Quartos R$ 950,00</string>
+    <string-array name="quarto">
+        <item>@string/kitnet</item>
+        <item>@string/quartos2</item>
+        <item>@string/quartos4</item>
+    </string-array>
+</resources>

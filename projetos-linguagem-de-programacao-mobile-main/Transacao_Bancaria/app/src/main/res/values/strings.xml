@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transação Bancária</string>
+    <string name="depositar">Depositar</string>
+    <string name="saque">Saque</string>
+    <string name="saldo">Saldo</string>
+    <string-array name="transacao">
+        <item>@string/depositar</item>
+        <item>@string/saque</item>
+        <item>@string/saldo</item>
+    </string-array>
+</resources>
